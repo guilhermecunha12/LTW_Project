@@ -1,4 +1,4 @@
-# GymRat - Gym website
+# GymRat - Gym Website
 
 ## First Delivery
 
