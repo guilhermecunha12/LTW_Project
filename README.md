@@ -1,4 +1,4 @@
-# ltw13g02
+# GymRat - Gym website
 
 ## First Delivery
 
@@ -65,3 +65,11 @@ View website at http://localhost:9000/.
 | Trainer | mferreira | 123456| 
 | Member | msilva | 123456 |
 | User | cgomes | 123456 |
+
+## Developers
+
+This project was developed by:
+
+* Gabriel Magalhães (up202405890)
+* Guilherme Cunha (up202405961)
+* Pedro Pires (up202405967)
